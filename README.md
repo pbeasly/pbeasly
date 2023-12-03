@@ -18,6 +18,20 @@ Here is an example animation
     <img src="https://github.com/pbeasly/Vorticity-Streamfunction/blob/main/Vorticiy-Animation.gif" alt="Alt text" width="100" height="100">
 </div>
 
+
+
+- and trying some more ideas
+
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <div>
+        <p>Here is some text that will describe the animation and explain how it was simulated and created.  Not sure how large the text will be or how it will look.</p>
+    </div>
+    <div>
+        <img src="https://github.com/pbeasly/Vorticity-Streamfunction/blob/main/Vorticiy-Animation.gif" alt="Alt text" width="100" height="100">
+    </div>
+</div>
+
 - 👋 Hi, I’m @pbeasly
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
