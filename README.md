@@ -4,6 +4,9 @@
 
 ## Data Visualization
 
+<div align="center">
+    <img src="https://github.com/pbeasly/Vorticity-Streamfunction/blob/main/Vorticiy-Animation.gif" alt="Alt text" width="600" height="400">
+</div>
 
 ## Scientific Computing
 
