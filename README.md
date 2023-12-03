@@ -2,12 +2,6 @@
 *Actively creating profile readme*
 - I am a data analyst with a strong background in engineering and business. Welcome to my github page.  Here are some highlights from my portfolio.
 
-## Data Visualization
-
-<div align="center">
-    <img src="https://github.com/pbeasly/Vorticity-Streamfunction/blob/main/Vorticiy-Animation.gif" alt="Alt text" width="600" height="400">
-</div>
-
 ## Scientific Computing
 
 Here is an example animation 
@@ -15,6 +9,14 @@ Here is an example animation
 <div align="center">
     <img src="https://github.com/pbeasly/Vorticity-Streamfunction/blob/main/Vorticiy-Animation.gif" alt="Alt text" width="600" height="400">
 </div>
+
+
+## Data Visualization
+
+<div align="center">
+    <img src="https://github.com/pbeasly/images/blob/main/mil_exp_boxplot.png" alt="Alt text" width="400" height="400">
+</div>
+
 
 
 - 👋 Hi, I’m @pbeasly
