@@ -8,6 +8,16 @@ Here is an example animation
 ![animation](https://github.com/pbeasly/Vorticity-Streamfunction/blob/main/Vorticiy-Animation.gif)
 
 
+- Here is another example of this animation
+
+<img src="https://github.com/pbeasly/Vorticity-Streamfunction/blob/main/Vorticiy-Animation.gif" alt="Alt text" width="200" height="200">
+
+- and another example
+
+- <div align="center">
+    <img src="https://github.com/pbeasly/Vorticity-Streamfunction/blob/main/Vorticiy-Animation.gif" alt="Alt text" width="100" height="100">
+</div>
+
 - 👋 Hi, I’m @pbeasly
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
