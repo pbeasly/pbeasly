@@ -5,7 +5,7 @@ I am a data analyst with a strong background in engineering and business. Welcom
 ## Scientific Computing
 
 Here is an example animation 
-![animation](URL)
+![animation](https://github.com/pbeasly/Vorticity-Streamfunction/blob/main/Vorticiy-Animation.gif)
 
 
 - 👋 Hi, I’m @pbeasly
