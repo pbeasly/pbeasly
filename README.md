@@ -1,10 +1,11 @@
 ## Paul Beasly
-*Actively creating profile readme*
-- I am a data analyst with a strong background in engineering and business. Welcome to my github page.  Here are some highlights from my portfolio.
+*Actively creating profile readme, so apologies if it doesn't appear complete*
+- Data analyst with a strong background in engineering and business. Completing Masters in Applied Mathematics at US.
+- Welcome to my github page!  Here are some highlights from my portfolio.
 
 ## Scientific Computing
 
-Here is an example animation 
+An example simulation for solving an ODE for the vorticity wavestream function.  The simulation was performed using python and an animation was generated using Jupyter notebook.  Project files can be found here...
 
 <div align="center">
     <img src="https://github.com/pbeasly/Vorticity-Streamfunction/blob/main/Vorticiy-Animation.gif" alt="Alt text" width="600" height="400">
@@ -19,11 +20,6 @@ Here is an example animation
 
 
 
-- 👋 Hi, I’m @pbeasly
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 pbeasly/pbeasly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
