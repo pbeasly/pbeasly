@@ -23,11 +23,11 @@ The project [military-expenditures](https://github.com/pbeasly/military-expendit
     <img src="https://github.com/pbeasly/images/blob/main/mil_exp_boxplot.png" alt="Alt text" width="600" height="550">
 </div>
 
-## Data Analysis - New York City Schools SAT results
+## Data Analysis - New York City Schools SAT Results
 The project [NYC-SAT-scores](https://github.com/pbeasly/NYC-SAT-scores) explores how different factors influnce the SAT results in NYC city schools.  The chart shows a scatter plot of SAT results vs Advanced Placement (AP) course offerings. 
 
 <div align="center">
-    <img src="https://github.com/pbeasly/images/blob/main/NYC-SAT.png" alt="Alt text" width="500" height="450">
+    <img src="https://github.com/pbeasly/images/blob/main/NYC-SAT-scores-plot.png" alt="Alt text" width="500" height="425">
 </div>
 
 
