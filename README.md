@@ -1,10 +1,6 @@
 ## Paul Beasly
-Welcome to my profile page!  I'm a Data Science graduate student at the University of Texas.  My background is in analog IC design and business/marketing. 
+Welcome to my profile page!  I'm a graduate student in Applied Math/Data Science.  My background is in analog IC design and business/marketing. My passion is to discover patterns and relationships in data.
 
-My passion is to discover patterns and relationships in data. I'm interested in freelance projects such as;
-- data cleaning
-- data visualization
-- data analysis
 
 Below are a few of my portfolio highlights.  To learn more, feel free to connect with me, [pbeasly](https://www.linkedin.com/in/paul-beasly-372b888/).
 
