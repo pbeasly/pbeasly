@@ -4,6 +4,13 @@ Welcome to my profile page!  I'm a graduate student in Applied Math/Data Science
 
 Below are a few of my portfolio highlights.  To learn more, feel free to connect with me, [pbeasly](https://www.linkedin.com/in/paul-beasly-372b888/).
 
+## Computer Vision - Butterfly Classification and Segmentation
+The Deep Learning project trains a model to identify the species of a butterfly from an image.  The project also trains a model to distinguish the butterfly from the surrounding background. The project [Butterfly-Computer-Vision](https://github.com/pbeasly/computer-vision-butterflies) uses different model architectures and compares the accuracy performance of different approaches.
+<div align="center">
+    <img src="https://github.com/pbeasly/computer-vision-butterflies/blob/main/image_segmentation.png" alt="Alt text" width="700" height="300">
+</div>
+
+
 ## Scientific Computing - Vorticity Streamfunction
 The visually pleasing animation is an example of my work studying Applied Mathematics at the University of Washington.  The project [Vorticity-Streamfunction](https://github.com/pbeasly/Vorticity-Streamfunction) simulates the time evolution of the vorticity and stream function equations using python's numpy package.
 
